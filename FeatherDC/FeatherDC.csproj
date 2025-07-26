@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+
+		<!-- Metas for futur NuGet package -->
+		<Authors>Cyril "Parad0x" Bouvier</Authors>
+		<PackageId>FeatherDC</PackageId>
+		<Version>1.1.0</Version>
+		<Description>Ultra-lightweight dependency injection container for .NET</Description>
+		<PackageLicenseExpression>Custom</PackageLicenseExpression>
+		<PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+		<PackageTags>di container dependency-injection lightweight</PackageTags>
+	</PropertyGroup>
+
+</Project>
